@@ -2,7 +2,7 @@
 # An instance of the Contact widget.
 # Documentation: https://docs.hugoblox.com/getting-started/page-builder/
 widget: contact
-
+active: false
 # This file represents a page section.
 headless: true
 

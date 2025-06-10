@@ -2,7 +2,7 @@
 # An instance of the Accomplishments widget.
 # Documentation: https://docs.hugoblox.com/page-builder/
 widget: accomplishments
-
+active: false
 # This file represents a page section.
 headless: true
 

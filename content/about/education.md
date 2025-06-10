@@ -2,7 +2,7 @@
 # An instance of the Experience widget.
 # Documentation: https://docs.hugoblox.com/page-builder/
 widget: experience
-
+active: false
 # This file represents a page section.
 headless: true
 
