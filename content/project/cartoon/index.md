@@ -4,5 +4,5 @@ summary: 从多个单目视频中获取3D服装套装
 tags:
   - CV
 date: 2022-01-01
-external_link: http://github.com
+# external_link: demo.md
 ---

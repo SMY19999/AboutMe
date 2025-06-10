@@ -4,5 +4,5 @@ summary: 高精度的人机物理交互仿真器，为机器人训练提供可�
 tags:
   - NLP
 date: 2022-01-01
-external_link: http://github.com
+# external_link: http://github.com
 ---
