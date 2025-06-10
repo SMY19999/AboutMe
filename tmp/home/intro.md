@@ -27,9 +27,6 @@ education:
  - course: 直博
    institution: 复旦大学 计算机应用技术
    year: 2021 - 至今
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
  - course: 本科
    institution: 北京交通大学 电气工程及其自动化
    year: 2017 - 2021
