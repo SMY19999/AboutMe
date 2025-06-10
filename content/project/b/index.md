@@ -5,9 +5,8 @@ tags:
   - 3D视觉
   - 图形学
 date: 2024-06-30
-
 share: false
 ---
 
-![screen reader text](MM-poster.png.jpg "caption")
+![](/assets/media/MM-poster.png.jpg "Paper Poster")
 
