@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: 全部
       tag: '*'
-    - name: 多模态3D/4D生成
-      tag: ML
-    - name: 人体
-      tag: CV
-    - name: NLP
-      tag: NLP
+    # - name: 多模态3D/4D生成
+    #   tag: ML
+    # - name: 人体
+    #   tag: CV
+    # - name: NLP
+    #   tag: NLP
 
 design:
   columns: '1'
