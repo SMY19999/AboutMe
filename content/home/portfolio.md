@@ -3,7 +3,7 @@
 # This section displays content from `content/project/`.
 # See https://docs.hugoblox.com/widget/portfolio/
 widget: portfolio
-
+author: admin
 # This file represents a page section.
 headless: true
 
