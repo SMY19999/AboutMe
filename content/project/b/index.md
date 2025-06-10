@@ -5,23 +5,9 @@ tags:
   - 3D视觉
   - 图形学
 date: 2024-06-30
-banner:
-  image: 'assets/media/MM-poster.png'
-  caption: 'Paper Poster'
+
 share: false
-sections:
-  - block: markdown
-    id: section-1
-    content:
-      title: Section 1
-      subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-  - block: markdown
-    id: section-2
-    content:
-      title: Section 2
-      subtitle: A subtitle
-      text: Add your Section 2 content here...
 ---
 
+![screen reader text](MM-poster.png.jpg "caption")
 
