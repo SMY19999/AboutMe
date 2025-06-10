@@ -1,6 +1,7 @@
 ---
 # Use the Intro widget of the Blog template
 widget: about.avatar
+# widget: about
 
 # This file represents a page section.
 headless: true
@@ -9,7 +10,7 @@ headless: true
 weight: 10
 
 author: admin
-#design:
+# design:
 #  background:
 #    color: '#090a0b'
 #    text_color_light: true
@@ -30,6 +31,9 @@ education:
  - course: 本科
    institution: 北京交通大学 电气工程及其自动化
    year: 2017 - 2021
+
+design:
+  css_class: avatar-right
 ---
 
 👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.

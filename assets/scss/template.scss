@@ -115,3 +115,14 @@ ul.network-icon .big-icon {
 .wg-about .portrait-title h3 {
   font-size: 0.8rem;
 }
+.avatar-right {
+  display: flex;
+  align-items: center;
+  flex-direction: row; /* 左右排列 */
+  text-align: left;
+}
+
+.avatar-right .portrait {
+  margin-right: 2rem; /* 头像与文字间距 */
+  flex-shrink: 0;
+}
