@@ -9,6 +9,9 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
+design:
+  css_class: avatar-right
+
 author: admin
 # design:
 #  background:
@@ -32,8 +35,6 @@ education:
    institution: 北京交通大学 电气工程及其自动化
    year: 2017 - 2021
 
-design:
-  css_class: avatar-right
 ---
 
 👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
