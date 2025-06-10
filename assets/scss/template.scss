@@ -115,22 +115,22 @@ ul.network-icon .big-icon {
 .wg-about .portrait-title h3 {
   font-size: 0.8rem;
 }
-.avatar-right {
+
+/* 新增：让头像和文字并排排列 */
+.about-avatar-container {
   display: flex;
-  align-items: center;     // 垂直居中
-  justify-content: flex-start;
-  flex-direction: row;     // 左右排列
-  text-align: left;
-  padding: 2rem 0;
+  align-items: center;
+  gap: 2rem; /* 图文间距 */
+  flex-wrap: wrap; /* 小屏自动换行 */
+}
 
-  .portrait {
-    margin-right: 2rem;    // 头像与文字间距
-    flex-shrink: 0;
-  }
+.about-avatar-container .avatar {
+  max-width: 180px;
+  border-radius: 15px;
+}
 
-  .portrait-title {
-    h2, h3 {
-      margin: 0;
-    }
-  }
+.about-avatar-container .intro-text {
+  max-width: 600px;
+  font-size: 1rem;
+  line-height: 1.6;
 }
