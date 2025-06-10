@@ -9,9 +9,6 @@ banner:
   image: 'MM-poster.png'
   caption: 'Paper Poster'
 share: false
----
-
-
 sections:
   - block: markdown
     id: section-1
@@ -25,3 +22,6 @@ sections:
       title: Section 2
       subtitle: A subtitle
       text: Add your Section 2 content here...
+---
+
+
