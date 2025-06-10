@@ -5,10 +5,12 @@ tags:
   - 3D视觉
   - 图形学
 date: 2024-06-30
----
 banner:
   image: 'MM-poster.png'
   caption: 'Paper Poster'
+share: false
+---
+
 
 sections:
   - block: markdown
