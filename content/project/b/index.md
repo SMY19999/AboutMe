@@ -1,9 +1,8 @@
 ---
 title: 数字人服装重建
-summary: 从多个单目视频中获取多件、无穿模的服装。
+summary: 从多个单目视频中获取多件、无穿模的3D服装。
 tags:
-  - CV
-date: 2022-01-01
-# external_link: demo.md
+  - 3D视觉
+  - 图形学
+date: 2024-06-30
 ---
-fsdfasdfdsfsadfsafsafsadf
