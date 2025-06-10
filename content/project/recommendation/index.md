@@ -1,6 +1,6 @@
 ---
 title: 多模态3D/4D生成模型
-summary: 
+summary: 123
 tags:
   - ML
 date: 2022-01-01
