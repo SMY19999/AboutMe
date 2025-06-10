@@ -6,7 +6,7 @@ tags:
   - 图形学
 date: 2024-06-30
 banner:
-  image: 'MM-poster.png'
+  image: 'assets/media/MM-poster.png'
   caption: 'Paper Poster'
 share: false
 sections:
