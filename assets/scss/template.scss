@@ -115,22 +115,3 @@ ul.network-icon .big-icon {
 .wg-about .portrait-title h3 {
   font-size: 0.8rem;
 }
-
-/* 新增：让头像和文字并排排列 */
-.about-avatar-container {
-  display: flex;
-  align-items: center;
-  gap: 2rem; /* 图文间距 */
-  flex-wrap: wrap; /* 小屏自动换行 */
-}
-
-.about-avatar-container .avatar {
-  max-width: 180px;
-  border-radius: 15px;
-}
-
-.about-avatar-container .intro-text {
-  max-width: 600px;
-  font-size: 1rem;
-  line-height: 1.6;
-}
