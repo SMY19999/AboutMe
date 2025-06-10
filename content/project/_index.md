@@ -1,4 +1,4 @@
 ---
 title: Blog
-share: true
+share: false
 ---
